@@ -1,0 +1,6 @@
+c:\users\csoft\documents\visual studio 2015\Projects\GammaQuadrant\GammaQuadrant\bin\Debug\GammaQuadrant.exe.config
+c:\users\csoft\documents\visual studio 2015\Projects\GammaQuadrant\GammaQuadrant\obj\Debug\GammaQuadrant.csprojResolveAssemblyReference.cache
+c:\users\csoft\documents\visual studio 2015\Projects\GammaQuadrant\GammaQuadrant\bin\Debug\GammaQuadrant.exe
+c:\users\csoft\documents\visual studio 2015\Projects\GammaQuadrant\GammaQuadrant\bin\Debug\GammaQuadrant.pdb
+c:\users\csoft\documents\visual studio 2015\Projects\GammaQuadrant\GammaQuadrant\obj\Debug\GammaQuadrant.exe
+c:\users\csoft\documents\visual studio 2015\Projects\GammaQuadrant\GammaQuadrant\obj\Debug\GammaQuadrant.pdb
